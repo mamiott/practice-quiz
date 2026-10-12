@@ -69,3 +69,7 @@ const questions = [
 
 - スタート画面 → 問題表示 → 選択肢を選ぶ → 正誤判定 → 次の問題 → 結果（正解数）表示
 - 結果画面から最初からやり直せる。
+
+## GitHubリポジトリ
+
+https://github.com/mamiott/practice-quiz.git
