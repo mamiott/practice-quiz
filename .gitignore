@@ -1,2 +1,4 @@
 .DS_Store
 practice quiz/
+node_modules/
+.env
